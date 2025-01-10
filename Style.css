@@ -377,3 +377,24 @@ body {
     height: 4%;
     
 }
+
+footer {
+    
+    font-family: "Arimo", serif;
+    color: rgb(134, 134, 134);
+    font-size: 1.3em;
+    font-weight: 400;
+    box-shadow: 0 0 1em green;
+    border-radius: 0.3vh;
+}
+
+.footer {
+    display: grid;
+    place-items: center; 
+    height: 100%; 
+     
+}
+
+.footer span {
+    text-decoration: underline;
+}
